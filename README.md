@@ -122,47 +122,6 @@ const amirthaganesh = {
 
 ---
 
-## 📊 SKILLS OVERVIEW
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryTextColor':'#ffffff','tertiaryTextColor':'#ffffff'}}}%%
-graph TD
-    DS[🎯 Data Science Expertise]
-    
-    DS --> ML[🤖 Machine Learning]
-    DS --> DL[🧠 Deep Learning]
-    DS --> DE[⚙️ Data Engineering]
-    DS --> AN[📊 Analytics]
-    
-    ML --> ML1[Supervised Learning]
-    ML --> ML2[Unsupervised Learning]
-    ML --> ML3[Ensemble Methods]
-    ML --> ML4[XGBoost & LightGBM]
-    
-    DL --> DL1[Computer Vision]
-    DL --> DL2[CNN & Transfer Learning]
-    DL --> DL3[GANs]
-    DL --> DL4[RNN & LSTM]
-    
-    DE --> DE1[ETL Pipelines]
-    DE --> DE2[Feature Engineering]
-    DE --> DE3[Data Cleaning]
-    DE --> DE4[Big Data Processing]
-    
-    AN --> AN1[Statistical Modeling]
-    AN --> AN2[A/B Testing]
-    AN --> AN3[Time Series Analysis]
-    AN --> AN4[Data Visualization]
-    
-    style DS fill:#00D9FF,stroke:#00D9FF,stroke-width:4px,color:#000
-    style ML fill:#7F00FF,stroke:#7F00FF,stroke-width:3px,color:#fff
-    style DL fill:#FF6B6B,stroke:#FF6B6B,stroke-width:3px,color:#fff
-    style DE fill:#00FF00,stroke:#00FF00,stroke-width:3px,color:#000
-    style AN fill:#FFD700,stroke:#FFD700,stroke-width:3px,color:#000
-```
-
----
-
 ## 🚀 MY DATA SCIENCE WORKFLOW
 
 <div align="center">
