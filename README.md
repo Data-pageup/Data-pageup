@@ -2,7 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA%20GANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;Statistical+Modelling+%7C+Deep+Learning+%7C+Computer+Vision;From+Jupyter+Notebooks+to+Docker+Containers;M.Sc+Data+Science+%40+VIT+AP;B.Sc+Data+Science+%26+Analytics+%40+Sharda+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
+
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Data-pageup"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -123,51 +124,33 @@
 
 <br>
 
-**Data Scientist** • Building AI-powered solutions and production-ready ML systems  
-**Data Analyst** • Exploring data through EDA, statistical modeling, and actionable insights  
-**ML Engineer** • Deploying scalable models that solve real-world problems
+**Data Scientist** • **Data Analyst** • **ML Engineer**
+
+Building AI solutions | Exploring data insights | Deploying scalable models
 
 <br>
 
-### 🚀 Ready to collaborate on your next project
+### 🚀 Open for Collaboration & Opportunities
 
 <br>
 
 <a href="mailto:amirthaganeshramesh@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-amirthaganeshramesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-amirthaganeshramesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://linkedin.com/in/amirthaganeshramesh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Data-pageup">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/check.png" alt="available"/>
-<br><b>Available for Work</b>
-<br><sub>Full-time opportunities</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/handshake.png" alt="collaborate"/>
-<br><b>Open to Collaborate</b>
-<br><sub>Research & projects</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/comments.png" alt="discuss"/>
-<br><b>Let's Discuss</b>
-<br><sub>Ideas & opportunities</sub>
-</td>
-</tr>
-</table>
+💼 **Available for full-time roles** • 🤝 **Open to research collaborations** • 💡 **Ready to discuss ideas**
 
 <br>
 
