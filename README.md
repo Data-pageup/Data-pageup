@@ -181,51 +181,6 @@ graph LR
 
 ---
 
-## 💡 CORE COMPETENCIES
-
-<br>
-
-<table>
-<thead>
-<tr>
-<th align="center">🎯 DOMAIN</th>
-<th align="center">🔧 CAPABILITIES</th>
-<th align="center">📊 IMPACT</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><b>ML Engineering</b></td>
-<td>Production Pipelines • Model Optimization</td>
-<td align="center"><code>Scalable Solutions</code></td>
-</tr>
-<tr>
-<td align="center"><b>Computer Vision</b></td>
-<td>Image Classification • Object Detection</td>
-<td align="center"><code>88.8% Accuracy</code></td>
-</tr>
-<tr>
-<td align="center"><b>Data Processing</b></td>
-<td>ETL • Feature Engineering • Cleaning</td>
-<td align="center"><code>85% Quality ↑</code></td>
-</tr>
-<tr>
-<td align="center"><b>Analytics</b></td>
-<td>Statistical Modeling • A/B Testing</td>
-<td align="center"><code>Data-Driven Insights</code></td>
-</tr>
-<tr>
-<td align="center"><b>Deployment</b></td>
-<td>Streamlit • Docker • MLflow</td>
-<td align="center"><code>End-to-End Systems</code></td>
-</tr>
-</tbody>
-</table>
-
-<br>
-
----
-
 ## 🌟 WHAT DRIVES ME
 
 <br>
