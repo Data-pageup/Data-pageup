@@ -25,25 +25,6 @@
 
 ---
 
-## 🎓 EDUCATION
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://img.shields.io/badge/M.Sc-Data_Science-blue?style=flat-square&logo=data&logoColor=white"/>
-<br><b>Vellore Institute of Technology, AP</b>
-<br>CGPA: 8.43/10.0 | Present
-</td>
-<td width="50%">
-<img src="https://img.shields.io/badge/B.Sc-Data_Science_&_Analytics-green?style=flat-square&logo=data&logoColor=white"/>
-<br><b>Sharda University, Delhi</b>
-<br>CGPA: 7.85/10.0 | Graduated
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ TECHNICAL SKILLS
 
 <div align="center">
