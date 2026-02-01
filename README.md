@@ -11,9 +11,9 @@
 
 <div align="center">
 
-## 🎯 **NOT YOUR AVERAGE DATA SCIENTIST** 🎯
+## NOT YOUR AVERAGE DATA SCIENTIST
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I+don't+need+a+job.;I+need+your+impossible+problem.;Got+data+chaos%3F+Let's+talk." alt="Subtitle" />
+**I don't need a job. I need your impossible problem.**
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## ⚡ **THE DEAL** ⚡
+## THE DEAL
 
 </div>
 
@@ -36,26 +36,22 @@
 <tr>
 <td width="50%" align="center">
 
-### 🔥 **WHAT I DO**
+**WHAT I DO**
 
-```
-▸ Build ML that works in production
-▸ Wrangle impossible datasets  
-▸ Create vision systems that see
-▸ Ship solutions, not excuses
-```
+Build ML that works in production  
+Wrangle impossible datasets  
+Create vision systems that see  
+Ship solutions, not excuses
 
 </td>
 <td width="50%" align="center">
 
-### 💀 **WHAT I DON'T DO**
+**WHAT I DON'T DO**
 
-```
-▸ Chase job postings
-▸ Write cover letters
-▸ Settle for boring problems
-▸ Build just for my resume
-```
+Chase job postings  
+Write cover letters  
+Settle for boring problems  
+Build just for my resume
 
 </td>
 </tr>
@@ -132,64 +128,47 @@
 
 <div align="center">
 
-## 💎 **SPECIALTY DOMAINS** 💎
+## SPECIALTY DOMAINS
 
 </div>
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  🌍  ENVIRONMENTAL AI                                        ┃
-┃      → Waste Classification & Carbon Tracking               ┃
-┃      → Sustainability Analytics & Impact Modeling           ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  🎥  COMPUTER VISION                                         ┃
-┃      → Real-time Object Detection & Tracking                ┃
-┃      → Image Segmentation for Complex Scenarios             ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  📊  PREDICTIVE ANALYTICS                                    ┃
-┃      → Time Series Forecasting                              ┃
-┃      → Anomaly Detection in Production Systems              ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  ⚙️  PRODUCTION ML                                           ┃
-┃      → Models that scale & survive real users               ┃
-┃      → End-to-end ML pipelines                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+**ENVIRONMENTAL AI**  
+Waste Classification & Carbon Tracking | Sustainability Analytics & Impact Modeling
+
+**COMPUTER VISION**  
+Real-time Object Detection & Tracking | Image Segmentation for Complex Scenarios
+
+**PREDICTIVE ANALYTICS**  
+Time Series Forecasting | Anomaly Detection in Production Systems
+
+**PRODUCTION ML**  
+Models that scale & survive real users | End-to-end ML pipelines
 
 ---
 
 <div align="center">
 
-## ⚙️ **OPERATING SYSTEM** ⚙️
+## OPERATING PRINCIPLES
 
 </div>
 
-```python
-philosophy = {
-    "code": "Production-ready, not just notebooks",
-    "models": "Generalize, never overfit",
-    "impact": "Results > Perfection"
-}
-
-approach = lambda problem: "solve()" if problem.is_challenging() else "pass"
-```
+**Production-ready code** — Works in production, not just notebooks  
+**Generalizable models** — Built to scale, not overfit  
+**Impact-driven** — Results matter more than perfection  
+**Clear documentation** — Code that others can understand
 
 ---
 
 <div align="center">
 
-## 🎯 **CURRENT MISSIONS** 🎯
+## CURRENT FOCUS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Building+AI+systems+for+environmental+impact;Creating+production-ready+ML+pipelines;Experimenting+with+cutting-edge+architectures;Contributing+to+meaningful+open-source+projects" alt="Current Focus" />
+Building AI systems for environmental impact  
+Creating production-ready ML pipelines  
+Experimenting with cutting-edge architectures  
+Contributing to meaningful open-source projects
 
 </div>
-
-```
-🌱 Environmental Intelligence  │  Making AI that helps the planet
-🔬 Production ML               │  Models that survive real users  
-🚀 Computer Vision            │  Systems that truly understand
-🧪 Experimental Work          │  Testing "crazy" ideas that work
-```
 
 ---
 
