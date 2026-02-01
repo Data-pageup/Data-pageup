@@ -44,20 +44,6 @@
 
 ---
 
-## 💼 EXPERIENCE
-
-**Data Analyst Intern** @ White Elephant | Bangalore  
-`Jun 2022 – Jul 2022`
-
----
-
-## 📚 RESEARCH
-
-**IEEE CICN 2025** | NIT Goa  
-*"Dimensionality Reduction for Intrusion Detection Using Crow Search Optimization and Grey Wolf Optimization"*
-
----
-
 ## 🛠️ TECHNICAL SKILLS
 
 <div align="center">
