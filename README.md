@@ -36,48 +36,19 @@
 
 ## 💼 EXPERIENCE
 
-<details open>
-<summary><b>🏢 Data Analyst Intern @ White Elephant | Bangalore</b></summary>
-<br>
-
-```yaml
-Duration: Jun 2022 – Jul 2022
-Impact:
-  - Data Quality Improvement: 85% ↑
-  - Feature Space Reduction: 40% ↓ (preserved 92% variance)
-  - Model Accuracy Boost: 12% ↑
-  - Data Inconsistencies: 78% ↓
-
-Technologies: PCA, t-SNE, Regularization, Preprocessing Pipelines
-Dataset Scale: 1K - 100K+ records
-```
-
-</details>
+**Data Analyst Intern** @ White Elephant | Bangalore  
+`Jun 2022 – Jul 2022`
 
 ---
 
-## 📚 RESEARCH & PUBLICATIONS
+## 📚 RESEARCH
 
-<div align="center">
-
-**🔬 IEEE CICN 2025 | NIT Goa**
-
-</div>
-
-> **"Dimensionality Reduction for Intrusion Detection Using Crow Search Optimization and Grey Wolf Optimization"**
-> 
-> *Amirthaganesh Ramesh*
-
-```diff
-+ Proposed metaheuristic feature selection methods
-+ Achieved state-of-the-art detection performance
-+ Evaluated on benchmark IDS datasets
-+ 17th IEEE International Conference (CICN 2025)
-```
+**IEEE CICN 2025** | NIT Goa  
+*"Dimensionality Reduction for Intrusion Detection Using Crow Search Optimization and Grey Wolf Optimization"*
 
 ---
 
-## 🛠️ TECHNICAL ARSENAL
+## 🛠️ TECHNICAL SKILLS
 
 <div align="center">
 
@@ -87,42 +58,121 @@ Dataset Scale: 1K - 100K+ records
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **🤖 Machine Learning**
+### **🤖 Machine Learning & Deep Learning**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-FF6B6B?style=for-the-badge)
-
-### **🧠 Deep Learning**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-**Architectures:** CNN • RNN • LSTM • GRU • GANs • Transfer Learning
-
-### **📊 Data Science & Analytics**
+### **📊 Data Science & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-
-**Specialties:** Statistical Modeling • A/B Testing • Time Series (ARIMA/SARIMA) • Feature Engineering • NLP • Computer Vision
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### **🔧 Tools & Deployment**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 SKILLS VISUALIZATION
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables': {'darkMode':'true','background':'#0d1117','primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#7F00FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00'}}}%%
+mindmap
+  root((Data Science
+    Expertise))
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Ensemble Methods
+      XGBoost/LightGBM
+    Deep Learning
+      Computer Vision
+      CNNs & Transfer Learning
+      GANs
+      RNN/LSTM
+    Data Engineering
+      ETL Pipelines
+      Feature Engineering
+      Data Cleaning
+      Big Data Processing
+    Analytics
+      Statistical Modeling
+      A/B Testing
+      Time Series Analysis
+      Data Visualization
+```
+
+---
+
+## 📈 TECH STACK RADAR
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph TB
+    subgraph "Core Competencies"
+    A[Python<br/>⭐⭐⭐⭐⭐] 
+    B[Machine Learning<br/>⭐⭐⭐⭐⭐]
+    C[Deep Learning<br/>⭐⭐⭐⭐]
+    D[SQL & Databases<br/>⭐⭐⭐⭐]
+    E[Data Visualization<br/>⭐⭐⭐⭐]
+    F[Computer Vision<br/>⭐⭐⭐⭐]
+    end
+    
+    style A fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#FF6F00,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#4479A1,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#E97627,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
+```
+
+---
+
+## 🚀 WORKFLOW
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#7F00FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00'}}}%%
+graph LR
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[EDA & Visualization]
+    C --> D[Feature Engineering]
+    D --> E[Model Development]
+    E --> F[Evaluation & Tuning]
+    F --> G[Deployment]
+    G --> H[Monitoring]
+    
+    style A fill:#00D9FF,stroke:#00D9FF,color:#000
+    style B fill:#7F00FF,stroke:#7F00FF,color:#fff
+    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff
+    style D fill:#00FF00,stroke:#00FF00,color:#000
+    style E fill:#FF6F00,stroke:#FF6F00,color:#fff
+    style F fill:#F2C811,stroke:#F2C811,color:#000
+    style G fill:#E97627,stroke:#E97627,color:#fff
+    style H fill:#0077B5,stroke:#0077B5,color:#fff
+```
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Data-pageup&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-pageup&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Data-pageup&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
 
@@ -130,91 +180,49 @@ Dataset Scale: 1K - 100K+ records
 
 ## 🏆 CERTIFICATIONS
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<br><b>OCI Data Science Professional</b>
-<br><sub>Oracle University (2025)</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-<br><b>ML Foundations</b>
-<br><sub>University of Washington (2025)</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/HP_LIFE-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
-<br><b>Data Science & Analytics</b>
-<br><sub>HP LIFE Foundation (2025)</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 📈 EXPERTISE MATRIX
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables': {'darkMode':'true','background':'#0d1117','primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#7F00FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00'}}}%%
-graph LR
-    A[Data Science] --> B[Machine Learning]
-    A --> C[Deep Learning]
-    A --> D[Data Engineering]
-    
-    B --> E[Supervised Learning]
-    B --> F[Unsupervised Learning]
-    B --> G[Ensemble Methods]
-    
-    C --> H[Computer Vision]
-    C --> I[Transfer Learning]
-    C --> J[GANs]
-    
-    D --> K[ETL Pipelines]
-    D --> L[Feature Engineering]
-    D --> M[Data Cleaning]
-    
-    style A fill:#00D9FF,stroke:#00D9FF,color:#000
-    style B fill:#7F00FF,stroke:#7F00FF,color:#fff
-    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff
-    style D fill:#00FF00,stroke:#00FF00,color:#000
-```
-
----
-
-## 🌟 WHAT DRIVES ME
-
-<br>
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-<br>
-<h3>💭 Mission</h3>
-<p><i>"Building AI systems that solve real-world problems<br>and create measurable impact through innovation."</i></p>
-<br>
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<p>
-<img src="https://img.shields.io/badge/🌍-Environmental_AI-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔬-Research_&_Innovation-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊-Production_ML-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀-Scalable_Solutions-red?style=for-the-badge"/>
-</p>
+| Oracle | Coursera | HP LIFE |
+|:------:|:--------:|:-------:|
+| **OCI Data Science Professional** | **ML Foundations** | **Data Science & Analytics** |
+| Oracle University (2025) | University of Washington (2025) | HP LIFE Foundation (2025) |
 
 </div>
 
 ---
 
-## 📬 LET'S COLLABORATE
+## 🎯 FOCUS AREAS
 
-<br>
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie title Technology Distribution
+    "Machine Learning" : 30
+    "Deep Learning" : 25
+    "Data Engineering" : 20
+    "Computer Vision" : 15
+    "Analytics & Visualization" : 10
+```
+
+</div>
+
+---
+
+## 💡 CURRENT FOCUS
+
+<div align="center">
+
+| 🔬 Research | 🚀 Building | 📚 Learning |
+|------------|------------|------------|
+| Optimization Algorithms | Production ML Pipelines | Advanced DL Architectures |
+| Intrusion Detection | AI Solutions | MLOps & Deployment |
+
+</div>
+
+---
+
+## 📬 LET'S CONNECT
 
 <div align="center">
 
@@ -223,7 +231,7 @@ graph LR
 <td align="center" width="100%">
 <br>
 <h3>🤝 Open to Opportunities</h3>
-<p>Excited about opportunities in <b>Data Science</b>, <b>ML Engineering</b>, and <b>AI Research</b></p>
+<p>Interested in <b>Data Science</b>, <b>ML Engineering</b>, and <b>AI Research</b> roles</p>
 <br>
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com">
@@ -236,8 +244,6 @@ graph LR
 <img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-<br>
-<p><b>📍 Current Status:</b> <code>Actively building, learning, and shipping ML solutions</code></p>
 <br>
 </td>
 </tr>
