@@ -200,7 +200,6 @@ graph LR
 
 <br>
 
-**🎯 Focus Areas**
 
 <p>
 <img src="https://img.shields.io/badge/🌍-Environmental_AI-green?style=for-the-badge"/>
@@ -208,8 +207,6 @@ graph LR
 <img src="https://img.shields.io/badge/📊-Production_ML-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🚀-Scalable_Solutions-red?style=for-the-badge"/>
 </p>
-
-<br>
 
 </div>
 
