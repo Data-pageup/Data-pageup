@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA%20GANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHAGANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
 
@@ -82,10 +82,6 @@ Dataset Scale: 1K - 100K+ records
 ```
 
 ---
-
-## 🚀 FEATURED PROJECTS
-
-<br>
 
 <table>
 <tr>
@@ -267,6 +263,7 @@ Dataset Scale: 1K - 100K+ records
 ## 📈 EXPERTISE MATRIX
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables': {'darkMode':'true','background':'#0d1117','primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#7F00FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00'}}}%%
 graph LR
     A[Data Science] --> B[Machine Learning]
     A --> C[Deep Learning]
@@ -284,10 +281,10 @@ graph LR
     D --> L[Feature Engineering]
     D --> M[Data Cleaning]
     
-    style A fill:#00D9FF
-    style B fill:#7F00FF
-    style C fill:#FF6B6B
-    style D fill:#00FF00
+    style A fill:#00D9FF,stroke:#00D9FF,color:#000
+    style B fill:#7F00FF,stroke:#7F00FF,color:#fff
+    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff
+    style D fill:#00FF00,stroke:#00FF00,color:#000
 ```
 
 ---
