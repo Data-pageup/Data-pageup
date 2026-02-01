@@ -122,34 +122,60 @@ const amirthaganesh = {
 
 ---
 
-## 🚀 MY DATA SCIENCE WORKFLOW
+## 🚀 HOW I WORK
 
 <div align="center">
 
-**From Raw Data to Production-Ready Models**
+**My approach to building data-driven solutions**
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/database.png" alt="data"/>
+<br><b>Collect</b>
+<br><sub>Gather data from multiple sources</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/broom.png" alt="clean"/>
+<br><b>Clean</b>
+<br><sub>Process & validate data</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/bar-chart.png" alt="explore"/>
+<br><b>Explore</b>
+<br><sub>Analyze & visualize patterns</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/settings.png" alt="engineer"/>
+<br><b>Engineer</b>
+<br><sub>Create powerful features</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/brain.png" alt="model"/>
+<br><b>Model</b>
+<br><sub>Train & optimize algorithms</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/test-tube.png" alt="evaluate"/>
+<br><b>Evaluate</b>
+<br><sub>Test & validate performance</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/rocket.png" alt="deploy"/>
+<br><b>Deploy</b>
+<br><sub>Ship to production</sub>
+</td>
+<td align="center" width="12.5%">
+<img width="50" src="https://img.icons8.com/fluency/96/combo-chart.png" alt="monitor"/>
+<br><b>Monitor</b>
+<br><sub>Track & improve</sub>
+</td>
+</tr>
+</table>
 
 </div>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00','textColor':'#ffffff','fontSize':'14px'}}}%%
-flowchart LR
-    A["📥 Data Collection<br/><small>APIs, Databases, Files</small>"] --> B["🧹 Data Cleaning<br/><small>Handle Missing Values</small>"]
-    B --> C["🔍 EDA & Visualization<br/><small>Insights Discovery</small>"]
-    C --> D["⚙️ Feature Engineering<br/><small>Create & Select Features</small>"]
-    D --> E["🤖 Model Development<br/><small>Train & Experiment</small>"]
-    E --> F["📊 Evaluation & Tuning<br/><small>Optimize Performance</small>"]
-    F --> G["🚀 Deployment<br/><small>Production Ready</small>"]
-    G --> H["📈 Monitoring<br/><small>Track & Improve</small>"]
-    
-    style A fill:#00D9FF,stroke:#00D9FF,color:#000,stroke-width:3px
-    style B fill:#7F00FF,stroke:#7F00FF,color:#fff,stroke-width:3px
-    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff,stroke-width:3px
-    style D fill:#00FF00,stroke:#00FF00,color:#000,stroke-width:3px
-    style E fill:#FF6F00,stroke:#FF6F00,color:#fff,stroke-width:3px
-    style F fill:#F2C811,stroke:#F2C811,color:#000,stroke-width:3px
-    style G fill:#E97627,stroke:#E97627,color:#fff,stroke-width:3px
-    style H fill:#0077B5,stroke:#0077B5,color:#fff,stroke-width:3px
-```
 
 ---
 
@@ -166,65 +192,37 @@ flowchart LR
 
 ---
 
-## 🎯 FOCUS AREAS
+## 📬 CONNECT WITH ME
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie title Technology Distribution
-    "Machine Learning" : 30
-    "Deep Learning" : 25
-    "Data Engineering" : 20
-    "Computer Vision" : 15
-    "Analytics & Visualization" : 10
-```
-
-</div>
-
----
-
-## 💡 CURRENT FOCUS
-
-<div align="center">
-
-| 🔬 Research | 🚀 Building | 📚 Learning |
-|------------|------------|------------|
-| Optimization Algorithms | Production ML Pipelines | Advanced DL Architectures |
-| Intrusion Detection | AI Solutions | MLOps & Deployment |
-
-</div>
-
----
-
-## 📬 LET'S CONNECT
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
 <br>
-<h3>🤝 Open to Opportunities</h3>
-<p>Interested in <b>Data Science</b>, <b>ML Engineering</b>, and <b>AI Research</b> roles</p>
+
+### 💼 Open to Opportunities
+
+<p>Interested in collaborating on <b>Data Science</b>, <b>ML Engineering</b>, and <b>AI Research</b> projects</p>
+
 <br>
-<p>
+
 <a href="mailto:amirthaganeshramesh@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/amirthaganeshramesh">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/Data-pageup">
-<img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
-</p>
-<br>
-</td>
-</tr>
-</table>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+
+<br><br>
+
+</div>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer)
 
