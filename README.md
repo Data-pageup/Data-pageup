@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AMIRTHAGANESH+R;DATA+SCIENTIST;PROBLEM+SOLVER;ML+ARCHITECT;DATASET+WRANGLER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AMIRTHAGANESH+R;DATA+SCIENTIST;PROBLEM+SOLVER;ML+ARCHITECT;DATASET+WRANGLER" alt="Typing SVG" />  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=header&text=&fontSize=90" />
 
