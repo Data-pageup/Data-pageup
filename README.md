@@ -146,6 +146,6 @@ Building AI solutions | Exploring data insights | Deploying scalable models
 
 </div>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/Data-pageup/Data-pageup/output/github-contribution-grid-snake-dark.svg)
 
 </div>
