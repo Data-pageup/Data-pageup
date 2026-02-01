@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA%20GANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Data+Analyst%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;M.Sc+Data+Science+%7C+B.Sc+Data+Science+&+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -10,6 +10,27 @@
 <a href="https://linkedin.com/in/amirthaganeshramesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Data-pageup&color=blueviolet&style=for-the-badge"/>
 </p>
+
+</div>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+<div align="center">
+
+```typescript
+const amirthaganesh = {
+    role: "Data Scientist & ML Engineer",
+    location: "India 🇮🇳",
+    education: "M.Sc Data Science @ VIT AP",
+    interests: ["Machine Learning", "Deep Learning", "Computer Vision", "AI Research"],
+    currentFocus: "Building production-ready ML systems",
+    funFact: "I turn data into decisions and models into impact! 🚀"
+};
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+about+solving+real-world+problems+with+AI;Experienced+in+ML%2C+DL%2C+and+Computer+Vision;Published+researcher+at+IEEE+CICN+2025;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -84,97 +105,64 @@
 
 ---
 
-## 📊 SKILLS VISUALIZATION
+## 📊 SKILLS OVERVIEW
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables': {'darkMode':'true','background':'#0d1117','primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#7F00FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00'}}}%%
+%%{init: {'theme':'dark','themeVariables': {'darkMode':'true','background':'#0d1117','primaryColor':'#00D9FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00D9FF','secondaryColor':'#ffffff','tertiaryColor':'#ffffff','textColor':'#ffffff','fontSize':'16px'}}}%%
 mindmap
-  root((Data Science
-    Expertise))
+  root((Data Science))
     Machine Learning
       Supervised Learning
       Unsupervised Learning
       Ensemble Methods
-      XGBoost/LightGBM
+      XGBoost & LightGBM
     Deep Learning
       Computer Vision
-      CNNs & Transfer Learning
+      CNN & Transfer Learning
       GANs
-      RNN/LSTM
+      RNN & LSTM
     Data Engineering
       ETL Pipelines
       Feature Engineering
       Data Cleaning
-      Big Data Processing
+      Big Data
     Analytics
       Statistical Modeling
       A/B Testing
-      Time Series Analysis
-      Data Visualization
+      Time Series
+      Visualization
 ```
 
 ---
 
-## 📈 TECH STACK RADAR
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TB
-    subgraph "Core Competencies"
-    A[Python<br/>⭐⭐⭐⭐⭐] 
-    B[Machine Learning<br/>⭐⭐⭐⭐⭐]
-    C[Deep Learning<br/>⭐⭐⭐⭐]
-    D[SQL & Databases<br/>⭐⭐⭐⭐]
-    E[Data Visualization<br/>⭐⭐⭐⭐]
-    F[Computer Vision<br/>⭐⭐⭐⭐]
-    end
-    
-    style A fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#FF6F00,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#4479A1,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#E97627,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
-```
-
----
-
-## 🚀 WORKFLOW
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#7F00FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00'}}}%%
-graph LR
-    A[Data Collection] --> B[Data Cleaning]
-    B --> C[EDA & Visualization]
-    C --> D[Feature Engineering]
-    D --> E[Model Development]
-    E --> F[Evaluation & Tuning]
-    F --> G[Deployment]
-    G --> H[Monitoring]
-    
-    style A fill:#00D9FF,stroke:#00D9FF,color:#000
-    style B fill:#7F00FF,stroke:#7F00FF,color:#fff
-    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff
-    style D fill:#00FF00,stroke:#00FF00,color:#000
-    style E fill:#FF6F00,stroke:#FF6F00,color:#fff
-    style F fill:#F2C811,stroke:#F2C811,color:#000
-    style G fill:#E97627,stroke:#E97627,color:#fff
-    style H fill:#0077B5,stroke:#0077B5,color:#fff
-```
-
----
-
-## 📊 GITHUB STATS
+## 🚀 MY DATA SCIENCE WORKFLOW
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Data-pageup&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-pageup&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Data-pageup&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+**From Raw Data to Production-Ready Models**
 
 </div>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#FF6B6B','tertiaryColor':'#00FF00','textColor':'#ffffff','fontSize':'14px'}}}%%
+flowchart LR
+    A["📥 Data Collection<br/><small>APIs, Databases, Files</small>"] --> B["🧹 Data Cleaning<br/><small>Handle Missing Values</small>"]
+    B --> C["🔍 EDA & Visualization<br/><small>Insights Discovery</small>"]
+    C --> D["⚙️ Feature Engineering<br/><small>Create & Select Features</small>"]
+    D --> E["🤖 Model Development<br/><small>Train & Experiment</small>"]
+    E --> F["📊 Evaluation & Tuning<br/><small>Optimize Performance</small>"]
+    F --> G["🚀 Deployment<br/><small>Production Ready</small>"]
+    G --> H["📈 Monitoring<br/><small>Track & Improve</small>"]
+    
+    style A fill:#00D9FF,stroke:#00D9FF,color:#000,stroke-width:3px
+    style B fill:#7F00FF,stroke:#7F00FF,color:#fff,stroke-width:3px
+    style C fill:#FF6B6B,stroke:#FF6B6B,color:#fff,stroke-width:3px
+    style D fill:#00FF00,stroke:#00FF00,color:#000,stroke-width:3px
+    style E fill:#FF6F00,stroke:#FF6F00,color:#fff,stroke-width:3px
+    style F fill:#F2C811,stroke:#F2C811,color:#000,stroke-width:3px
+    style G fill:#E97627,stroke:#E97627,color:#fff,stroke-width:3px
+    style H fill:#0077B5,stroke:#0077B5,color:#fff,stroke-width:3px
+```
 
 ---
 
