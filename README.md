@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHAGANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA-GANESH-R%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -85,11 +85,7 @@ Dataset Scale: 1K - 100K+ records
 
 ## 🚀 FEATURED PROJECTS
 
-<div align="center">
-
-### 🌟 PORTFOLIO HIGHLIGHTS 🌟
-
-</div>
+<br>
 
 <table>
 <tr>
@@ -298,33 +294,78 @@ graph LR
 
 ## 💡 CORE COMPETENCIES
 
-<div align="center">
+<br>
 
-| 🎯 Domain | 🔧 Capabilities | 📊 Impact |
-|-----------|----------------|-----------|
-| **ML Engineering** | Production Pipelines, Model Optimization | Scalable Solutions |
-| **Computer Vision** | Image Classification, Object Detection | 88.8% Accuracy |
-| **Data Processing** | ETL, Feature Engineering, Cleaning | 85% Quality Improvement |
-| **Analytics** | Statistical Modeling, A/B Testing | Data-Driven Insights |
-| **Deployment** | Streamlit, Docker, MLflow | End-to-End Systems |
+<table>
+<thead>
+<tr>
+<th align="center">🎯 DOMAIN</th>
+<th align="center">🔧 CAPABILITIES</th>
+<th align="center">📊 IMPACT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>ML Engineering</b></td>
+<td>Production Pipelines • Model Optimization</td>
+<td align="center"><code>Scalable Solutions</code></td>
+</tr>
+<tr>
+<td align="center"><b>Computer Vision</b></td>
+<td>Image Classification • Object Detection</td>
+<td align="center"><code>88.8% Accuracy</code></td>
+</tr>
+<tr>
+<td align="center"><b>Data Processing</b></td>
+<td>ETL • Feature Engineering • Cleaning</td>
+<td align="center"><code>85% Quality ↑</code></td>
+</tr>
+<tr>
+<td align="center"><b>Analytics</b></td>
+<td>Statistical Modeling • A/B Testing</td>
+<td align="center"><code>Data-Driven Insights</code></td>
+</tr>
+<tr>
+<td align="center"><b>Deployment</b></td>
+<td>Streamlit • Docker • MLflow</td>
+<td align="center"><code>End-to-End Systems</code></td>
+</tr>
+</tbody>
+</table>
 
-</div>
+<br>
 
 ---
 
 ## 🌟 WHAT DRIVES ME
 
+<br>
+
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  "Building AI systems that solve real-world problems        │
-│   and create measurable impact through innovation."         │
-└─────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="100%">
+<br>
+<h3>💭 Mission</h3>
+<p><i>"Building AI systems that solve real-world problems<br>and create measurable impact through innovation."</i></p>
+<br>
+</td>
+</tr>
+</table>
 
-**Focus Areas:**
-🌍 Environmental AI • 🔬 Research & Innovation • 📊 Production ML • 🚀 Scalable Solutions
+<br>
+
+**🎯 Focus Areas**
+
+<p>
+<img src="https://img.shields.io/badge/🌍-Environmental_AI-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔬-Research_&_Innovation-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊-Production_ML-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀-Scalable_Solutions-red?style=for-the-badge"/>
+</p>
+
+<br>
 
 </div>
 
@@ -332,25 +373,36 @@ graph LR
 
 ## 📬 LET'S COLLABORATE
 
+<br>
+
 <div align="center">
 
-**Open to exciting opportunities in Data Science, ML Engineering, and AI Research**
-
+<table>
+<tr>
+<td align="center" width="100%">
+<br>
+<h3>🤝 Open to Opportunities</h3>
+<p>Excited about opportunities in <b>Data Science</b>, <b>ML Engineering</b>, and <b>AI Research</b></p>
+<br>
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/amirthaganeshramesh">
-<img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Data-pageup">
-<img src="https://img.shields.io/badge/💻_View_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<br>
+<p><b>📍 Current Status:</b> <code>Actively building, learning, and shipping ML solutions</code></p>
+<br>
+</td>
+</tr>
+</table>
 
 <br>
-
-**🔥 Current Status:** Actively building, learning, and shipping ML solutions
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer)
 
