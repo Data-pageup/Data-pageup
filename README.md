@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA%20GANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;M.Sc+Data+Science+%7C+B.Sc+Data+Science+&+Analyst)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
