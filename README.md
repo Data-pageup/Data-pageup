@@ -195,7 +195,9 @@ approach = lambda problem: "solve()" if problem.is_challenging() else "pass"
 
 <div align="center">
 
-## 📡 **CONNECT WITH ME** 📡
+## 📬 **Get In Touch**
+
+**Interested in collaboration? Have a challenging problem?**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amirthaganesh-ramesh">
@@ -209,44 +211,9 @@ approach = lambda problem: "solve()" if problem.is_challenging() else "pass"
 </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-## ⚠️ **BEFORE YOU REACH OUT** ⚠️
+*I'm always open to discussing interesting data problems, ML challenges, and impactful projects.*
 
 </div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### ✅ **DO THIS**
-```diff
-+ Pitch challenging problems
-+ Share interesting datasets
-+ Propose impactful collaborations
-+ Discuss technical challenges
-+ Ask about specific projects
-```
-
-</td>
-<td width="50%">
-
-### ❌ **DON'T DO THIS**
-```diff
-- Send generic job descriptions
-- Ask me to "just apply"
-- Offer vague "opportunities"
-- Waste time on small talk
-- Send recruiter spam
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
