@@ -128,11 +128,7 @@
 
 Building AI solutions | Exploring data insights | Deploying scalable models
 
-<br>
 
-### 🚀 Open for Collaboration & Opportunities
-
-<br>
 
 <a href="mailto:amirthaganeshramesh@gmail.com">
 <img src="https://img.shields.io/badge/Email-amirthaganeshramesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
