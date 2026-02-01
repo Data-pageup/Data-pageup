@@ -154,6 +154,6 @@ Building AI solutions | Exploring data insights | Deploying scalable models
 
 <br>
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/Data-pageup/Data-pageup/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Data-pageup/Data-pageup/output/github-contribution-grid-snake-dark.svg)
 
 </div>
