@@ -19,36 +19,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+about+solving+real-world+problems+with+AI+%F0%9F%9A%80;Experienced+in+Machine+Learning%2C+Deep+Learning%2C+Computer+Vision;Published+Researcher+%7C+IEEE+CICN+2025;Building+production-ready+ML+systems+that+create+impact" alt="About Me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+about+solving+real-world+problems+with+AI+%F0%9F%9A%80;Experienced+in+Machine+Learning%2C+Deep+Learning%2C+Computer+Vision;Published+Researcher+%7C+IEEE+CICN+2025;Building+production-ready+ML+systems+that+create+impact" alt="About Me" />
 
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-```javascript
-const amirthaganesh = {
-    role: "Data Scientist & ML Engineer",
-    location: "India 🇮🇳",
-    education: "M.Sc Data Science @ VIT AP",
-    interests: [
-        "Machine Learning",
-        "Deep Learning", 
-        "Computer Vision",
-        "AI Research"
-    ],
-    currentFocus: "Building production-ready ML systems",
-    motto: "Turning data into decisions, models into impact!"
-};
-```
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
