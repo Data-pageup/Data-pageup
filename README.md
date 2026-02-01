@@ -60,12 +60,7 @@
 
 ---
 
-## 🚀 HOW I WORK
-
-<div align="center">
-
-**My approach to building data-driven solutions**
-
+## My approach to building data-driven solutions
 <br>
 
 <table>
