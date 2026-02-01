@@ -154,7 +154,7 @@ Building AI solutions | Exploring data insights | Deploying scalable models
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/Data-pageup/Data-pageup/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Data-pageup/Data-pageup/main/assets%20/github-contribution-grid-snake.svg)
 
 
 
