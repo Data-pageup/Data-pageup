@@ -19,19 +19,36 @@
 
 <div align="center">
 
-```typescript
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+about+solving+real-world+problems+with+AI+%F0%9F%9A%80;Experienced+in+Machine+Learning%2C+Deep+Learning%2C+Computer+Vision;Published+Researcher+%7C+IEEE+CICN+2025;Building+production-ready+ML+systems+that+create+impact" alt="About Me" />
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```javascript
 const amirthaganesh = {
     role: "Data Scientist & ML Engineer",
     location: "India 🇮🇳",
     education: "M.Sc Data Science @ VIT AP",
-    interests: ["Machine Learning", "Deep Learning", "Computer Vision", "AI Research"],
+    interests: [
+        "Machine Learning",
+        "Deep Learning", 
+        "Computer Vision",
+        "AI Research"
+    ],
     currentFocus: "Building production-ready ML systems",
-    funFact: "I turn data into decisions and models into impact! 🚀"
+    motto: "Turning data into decisions, models into impact!"
 };
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+about+solving+real-world+problems+with+AI;Experienced+in+ML%2C+DL%2C+and+Computer+Vision;Published+researcher+at+IEEE+CICN+2025;Always+learning%2C+always+building)](https://git.io/typing-svg)
-
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -108,29 +125,40 @@ const amirthaganesh = {
 ## 📊 SKILLS OVERVIEW
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables': {'darkMode':'true','background':'#0d1117','primaryColor':'#00D9FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00D9FF','secondaryColor':'#ffffff','tertiaryColor':'#ffffff','textColor':'#ffffff','fontSize':'16px'}}}%%
-mindmap
-  root((Data Science))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Ensemble Methods
-      XGBoost & LightGBM
-    Deep Learning
-      Computer Vision
-      CNN & Transfer Learning
-      GANs
-      RNN & LSTM
-    Data Engineering
-      ETL Pipelines
-      Feature Engineering
-      Data Cleaning
-      Big Data
-    Analytics
-      Statistical Modeling
-      A/B Testing
-      Time Series
-      Visualization
+%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00D9FF','primaryTextColor':'#ffffff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryTextColor':'#ffffff','tertiaryTextColor':'#ffffff'}}}%%
+graph TD
+    DS[🎯 Data Science Expertise]
+    
+    DS --> ML[🤖 Machine Learning]
+    DS --> DL[🧠 Deep Learning]
+    DS --> DE[⚙️ Data Engineering]
+    DS --> AN[📊 Analytics]
+    
+    ML --> ML1[Supervised Learning]
+    ML --> ML2[Unsupervised Learning]
+    ML --> ML3[Ensemble Methods]
+    ML --> ML4[XGBoost & LightGBM]
+    
+    DL --> DL1[Computer Vision]
+    DL --> DL2[CNN & Transfer Learning]
+    DL --> DL3[GANs]
+    DL --> DL4[RNN & LSTM]
+    
+    DE --> DE1[ETL Pipelines]
+    DE --> DE2[Feature Engineering]
+    DE --> DE3[Data Cleaning]
+    DE --> DE4[Big Data Processing]
+    
+    AN --> AN1[Statistical Modeling]
+    AN --> AN2[A/B Testing]
+    AN --> AN3[Time Series Analysis]
+    AN --> AN4[Data Visualization]
+    
+    style DS fill:#00D9FF,stroke:#00D9FF,stroke-width:4px,color:#000
+    style ML fill:#7F00FF,stroke:#7F00FF,stroke-width:3px,color:#fff
+    style DL fill:#FF6B6B,stroke:#FF6B6B,stroke-width:3px,color:#fff
+    style DE fill:#00FF00,stroke:#00FF00,stroke-width:3px,color:#000
+    style AN fill:#FFD700,stroke:#FFD700,stroke-width:3px,color:#000
 ```
 
 ---
