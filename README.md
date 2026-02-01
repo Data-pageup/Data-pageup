@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AMIRTHAGANESH+R;DATA+SCIENTIST;PROBLEM+SOLVER;ML+ARCHITECT;DATASET+WRANGLER" alt="Typing SVG" />  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AMIRTHAGANESH+R;DATA+SCIENTIST;PROBLEM+SOLVER;ML+ARCHITECT;DATASET+WRANGLER" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=header&text=&fontSize=90" />
 
@@ -18,33 +18,10 @@
 </div>
 
 ```python
-class AmirthaganeshR:
-    def __init__(self):
-        self.role = "Data Scientist & ML Architect"
-        self.mindset = "Problem Hunter, Not Job Seeker"
-        self.location = "🌍 Earth"
-        self.status = "ACTIVE: Hunting challenging problems"
-        
-    def what_excites_me(self):
-        return [
-            "Datasets that make others quit",
-            "Models that refuse to converge", 
-            "Problems labeled 'impossible'",
-            "Real-world chaos that needs structure"
-        ]
-    
-    def what_bores_me(self):
-        return [
-            "Job descriptions",
-            "Resume formatting",
-            "Corporate buzzwords",
-            "Playing it safe"
-        ]
-
-# Initialize
-me = AmirthaganeshR()
-print(f"Status: {me.status}")
-# Output: "Status: ACTIVE: Hunting challenging problems"
+>>> role = "Data Scientist | ML Architect | Problem Solver"
+>>> mission = "Hunt impossible problems, not job offers"
+>>> print(mission)
+"Hunt impossible problems, not job offers"
 ```
 
 ---
@@ -188,23 +165,13 @@ print(f"Status: {me.status}")
 </div>
 
 ```python
-def my_philosophy():
-    return {
-        "code": "Works in production, not just notebooks",
-        "models": "Generalize, don't memorize",
-        "solutions": "Scale, don't break under pressure",
-        "docs": "Teach, don't confuse",
-        "priority": "Impact > Perfection"
-    }
+philosophy = {
+    "code": "Production-ready, not just notebooks",
+    "models": "Generalize, never overfit",
+    "impact": "Results > Perfection"
+}
 
-def my_approach(problem):
-    if problem.is_interesting() and problem.creates_impact():
-        dedication = "100%"
-        return solve(problem, give_everything=True)
-    elif problem.is_resume_filler():
-        return "Pass. Not interested."
-    else:
-        return evaluate_further(problem)
+approach = lambda problem: "solve()" if problem.is_challenging() else "pass"
 ```
 
 ---
