@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHAGANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA%20GANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
 
@@ -52,12 +52,6 @@ Technologies: PCA, t-SNE, Regularization, Preprocessing Pipelines
 Dataset Scale: 1K - 100K+ records
 ```
 
-**Key Achievements:**
-- 📊 Analyzed large-scale datasets for consultancy use-cases
-- 🔬 Applied dimensionality reduction techniques (PCA, t-SNE)
-- ⚙️ Implemented bias-variance optimization strategies
-- 🛠️ Built robust preprocessing pipelines for data cleaning
-
 </details>
 
 ---
@@ -82,6 +76,8 @@ Dataset Scale: 1K - 100K+ records
 ```
 
 ---
+
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
