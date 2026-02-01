@@ -1,212 +1,84 @@
-<div align="center">
-  
-# 👋 Hey there! I'm Amirthaganesh Ramesh
-
-### 🚀 Data Scientist | ML Engineer | AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amirthaganesh-ramesh)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amir@gmail.com)
-
-</div>
-
----
-
-## 🎯 About Me
+# Amirthaganesh Ramesh
 
 ```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Amirthaganesh Ramesh"
-        self.role = "Data Scientist"
-        self.location = "🌍"
-        self.interests = ["Machine Learning", "AI", "Data Analytics"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = DataScientist()
-me.say_hi()
+>>> import problems
+>>> solver = problems.find_solver()
+>>> print(solver.status)
+"Looking for problems, not jobs"
 ```
 
-🔬 Passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. I love exploring cutting-edge ML techniques and contributing to impactful projects.
+## I Don't Need a Job. I Need Your Problem.
+
+Data Scientist. Problem Solver. Dataset Wrangler.
+
+If you've got messy data, impossible patterns, or a challenge that makes others walk away—I'm interested. I don't build resumes. I build solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Actually Do
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I take your chaos and find the signal. Whether it's:
+- **Computer Vision** that actually sees
+- **ML models** that don't just overfit your training data
+- **Data pipelines** that handle real-world messiness
+- **Analytics** that answer the questions you didn't know to ask
 
-### **Data Science & ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-### **Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-### **Tools & Platforms**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
- 
----
-
-<div align="center">
-  
-# 👋 Hey there! I'm Amirthaganesh Ramesh
-
-### 🚀 Data Scientist | ML Engineer | AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amirthaganesh-ramesh)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amir@gmail.com)
-
-</div>
+I work with datasets like they're puzzles, not checklists. If your problem is interesting enough, I'll probably solve it for free just to see if I can.
 
 ---
 
-## 🎯 About Me
+## The Arsenal
+
+**Languages:** Python, R, SQL, JavaScript  
+**ML/DL:** TensorFlow, PyTorch, Scikit-Learn, XGBoost, Keras  
+**Data:** Pandas, NumPy, Polars, Apache Spark  
+**Vision:** OpenCV, YOLO, Detectron2  
+**Viz:** Matplotlib, Seaborn, Plotly, Tableau  
+**Ops:** Docker, Git, AWS, MLflow
+
+But honestly? The tool doesn't matter. The problem does.
+
+---
+
+## Current Focus
+
+🔬 Building AI systems that work in production, not just in Jupyter notebooks  
+🌍 Environmental tech—waste classification, carbon tracking, sustainability analytics  
+🧠 Deep learning architectures that I can actually explain to non-technical people  
+🚀 Open-source contributions when the project is worth my time
+
+---
+
+## Philosophy
 
 ```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Amirthaganesh Ramesh"
-        self.role = "Data Scientist"
-        self.location = "🌍"
-        self.interests = ["Machine Learning", "AI", "Data Analytics"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = DataScientist()
-me.say_hi()
+def approach_to_work():
+    priorities = [
+        "Make it work",
+        "Make it right", 
+        "Make it fast",
+        "Make it elegant"
+    ]
+    return "In that order."
 ```
 
-🔬 Passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. I love exploring cutting-edge ML techniques and contributing to impactful projects.
+I believe in:
+- **Code that doesn't lie** - If it works in dev, it works in prod
+- **Models that generalize** - Overfitting is cheating
+- **Documentation that matters** - Explain the why, not just the what
+- **Problems over paychecks** - The interesting challenge always wins
 
 ---
 
-## 🛠️ Tech Stack
+## Let's Talk
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Got a dataset that's giving you nightmares? A business problem that needs a data-driven solution? An impossible pattern you need found?
 
-### **Data Science & ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+**LinkedIn:** [Amirthaganesh Ramesh](https://www.linkedin.com/in/amirthaganesh-ramesh)  
+**Email:** amirthaganeshramesh@gmail.com
 
-### **Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-### **Tools & Platforms**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+Don't pitch me jobs. Pitch me problems.
 
 ---
 
-## 📌 Pinned Projects
-
-<div align="center">
-  
-[![EcoWaste AI](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=EcoWaste-AI-Smart-Waste-Classification-Carbon-&theme=tokyonight)](https://github.com/YOUR_USERNAME/EcoWaste-AI-Smart-Waste-Classification-Carbon-)
-
-[![YOLOv8 Garbage Detection](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOLOv8_garbage_detection&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOLOv8_garbage_detection)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **AI-powered environmental solutions**
-- 🌱 Learning **Deep Reinforcement Learning** and **MLOps**
-- 👯 Open to collaborate on **ML/AI projects** and **open-source contributions**
-- 💬 Ask me about **Data Science, Machine Learning, Computer Vision**
-- ⚡ Fun fact: I turn coffee into code and data into decisions ☕➡️💻
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirthaganesh-ramesh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Data is the new oil, but insights are the refined fuel."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-
-⭐️ From [Amirthaganesh Ramesh](https://github.com/YOUR_USERNAME)
-
-</div>
-- 🔭 Currently working on **AI-powered environmental solutions**
-- 🌱 Learning **Deep Reinforcement Learning** and **MLOps**
-- 👯 Open to collaborate on **ML/AI projects** and **open-source contributions**
-- 💬 Ask me about **Data Science, Machine Learning, Computer Vision**
-- ⚡ Fun fact: I turn coffee into code and data into decisions ☕➡️💻
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirthaganesh-ramesh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Data is the new oil, but insights are the refined fuel."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-
-⭐️ From [Amirthaganesh Ramesh](https://github.com/YOUR_USERNAME)
-
-</div>
+*"Most people want to know what you can do for them. I want to know what you can't solve yet."*
