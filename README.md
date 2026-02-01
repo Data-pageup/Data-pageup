@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHA%20GANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;M.Sc+Data+Science+%7C+B.Sc+Data+Science+&+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
 
 <p>
 <a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,49 +25,50 @@
 
 ---
 
-##  EDUCATION
+## 🎓 EDUCATION
 
 <table>
 <tr>
 <td width="50%">
 <img src="https://img.shields.io/badge/M.Sc-Data_Science-blue?style=flat-square&logo=data&logoColor=white"/>
 <br><b>Vellore Institute of Technology, AP</b>
+<br>CGPA: 8.43/10.0 | Present
 </td>
 <td width="50%">
 <img src="https://img.shields.io/badge/B.Sc-Data_Science_&_Analytics-green?style=flat-square&logo=data&logoColor=white"/>
 <br><b>Sharda University, Delhi</b>
-
+<br>CGPA: 7.85/10.0 | Graduated
 </td>
 </tr>
 </table>
 
 ---
 
-##  EXPERIENCE
+## 💼 EXPERIENCE
 
 **Data Analyst Intern** @ White Elephant | Bangalore  
 `Jun 2022 – Jul 2022`
 
 ---
 
-##  RESEARCH
+## 📚 RESEARCH
 
 **IEEE CICN 2025** | NIT Goa  
 *"Dimensionality Reduction for Intrusion Detection Using Crow Search Optimization and Grey Wolf Optimization"*
 
 ---
 
-##  TECHNICAL SKILLS
+## 🛠️ TECHNICAL SKILLS
 
 <div align="center">
 
-### ** Programming & Core**
+### **💻 Programming & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ** Machine Learning & Deep Learning**
+### **🤖 Machine Learning & Deep Learning**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -75,14 +76,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-### ** Data Science & Visualization**
+### **📊 Data Science & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### ** Tools & Deployment**
+### **🔧 Tools & Deployment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,7 +94,7 @@
 
 ---
 
-##  HOW I WORK
+## 🚀 HOW I WORK
 
 <div align="center">
 
@@ -150,20 +151,9 @@
 
 ---
 
-##  CERTIFICATIONS
-
 <div align="center">
 
-| Oracle | Coursera | HP LIFE |
-|:------:|:--------:|:-------:|
-| **OCI Data Science Professional** | **ML Foundations** | **Data Science & Analytics** |
-| Oracle University (2025) | University of Washington (2025) | HP LIFE Foundation (2025) |
-
-</div>
-
----
-
-<div align="center">
+## 📬 CONNECT WITH ME
 
 <h3>💼 Open to Opportunities</h3>
 
