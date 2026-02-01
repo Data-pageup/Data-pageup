@@ -164,11 +164,9 @@
 
 ---
 
-## 📬 CONNECT WITH ME
-
-<br>
-
 <div align="center">
+
+## 📬 CONNECT WITH ME
 
 <h3>💼 Open to Opportunities</h3>
 
