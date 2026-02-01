@@ -166,16 +166,17 @@
 
 ## 📬 CONNECT WITH ME
 
-<div align="center">
-
 <br>
 
-### 💼 Open to Opportunities
+<div align="center">
+
+<h3>💼 Open to Opportunities</h3>
 
 <p>Interested in collaborating on <b>Data Science</b>, <b>ML Engineering</b>, and <b>AI Research</b> projects</p>
 
 <br>
 
+<p>
 <a href="mailto:amirthaganeshramesh@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
@@ -187,8 +188,9 @@
 <a href="https://github.com/Data-pageup">
 <img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
+</p>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 
