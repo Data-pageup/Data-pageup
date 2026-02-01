@@ -1,33 +1,93 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AMIRTHAGANESH+R;Data+Scientist;Machine+Learning+Engineer;AI+Solutions+Architect" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&text=AMIRTHAGANESH%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+Solutions+at+Scale;VIT+AP+%7C+M.Sc+Data+Science)](https://git.io/typing-svg)
+
+<p>
+<a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Data-pageup"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amirthaganeshramesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Data-pageup&color=blueviolet&style=for-the-badge"/>
+</p>
 
 </div>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Expertise-Computer%20Vision-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialty-Production%20AI-orange?style=flat-square" />
-</p>
+## 🎓 EDUCATION
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://img.shields.io/badge/M.Sc-Data_Science-blue?style=flat-square&logo=data&logoColor=white"/>
+<br><b>Vellore Institute of Technology, AP</b>
+<br>CGPA: 8.43/10.0 | Present
+</td>
+<td width="50%">
+<img src="https://img.shields.io/badge/B.Sc-Data_Science_&_Analytics-green?style=flat-square&logo=data&logoColor=white"/>
+<br><b>Sharda University, Delhi</b>
+<br>CGPA: 7.85/10.0 | Graduated
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍💻 About Me
+## 💼 EXPERIENCE
 
-Data Scientist with expertise in **Machine Learning**, **Computer Vision**, and **Production AI Systems**. I specialize in transforming complex data challenges into scalable, production-ready solutions that drive measurable business impact.
-
-My work focuses on building intelligent systems that solve real-world problems across environmental technology, predictive analytics, and computer vision applications.
-
+<details open>
+<summary><b>🏢 Data Analyst Intern @ White Elephant | Bangalore</b></summary>
 <br>
+
+```yaml
+Duration: Jun 2022 – Jul 2022
+Impact:
+  - Data Quality Improvement: 85% ↑
+  - Feature Space Reduction: 40% ↓ (preserved 92% variance)
+  - Model Accuracy Boost: 12% ↑
+  - Data Inconsistencies: 78% ↓
+
+Technologies: PCA, t-SNE, Regularization, Preprocessing Pipelines
+Dataset Scale: 1K - 100K+ records
+```
+
+**Key Achievements:**
+- 📊 Analyzed large-scale datasets for consultancy use-cases
+- 🔬 Applied dimensionality reduction techniques (PCA, t-SNE)
+- ⚙️ Implemented bias-variance optimization strategies
+- 🛠️ Built robust preprocessing pipelines for data cleaning
+
+</details>
+
+---
+
+## 📚 RESEARCH & PUBLICATIONS
 
 <div align="center">
 
-### 🎯 What I Bring to the Table
+**🔬 IEEE CICN 2025 | NIT Goa**
+
+</div>
+
+> **"Dimensionality Reduction for Intrusion Detection Using Crow Search Optimization and Grey Wolf Optimization"**
+> 
+> *Amirthaganesh Ramesh*
+
+```diff
++ Proposed metaheuristic feature selection methods
++ Achieved state-of-the-art detection performance
++ Evaluated on benchmark IDS datasets
++ 17th IEEE International Conference (CICN 2025)
+```
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+### 🌟 PORTFOLIO HIGHLIGHTS 🌟
 
 </div>
 
@@ -35,22 +95,97 @@ My work focuses on building intelligent systems that solve real-world problems a
 <tr>
 <td width="50%" valign="top">
 
-#### 🔧 Technical Solutions
-- Production-grade ML pipelines
-- Real-time computer vision systems  
-- Scalable data architectures
-- End-to-end AI implementation
-- Model optimization & deployment
+### 🧬 Hybrid GAN-Copula Synthesizer
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Data-pageup)
+
+**Dual-Engine Synthetic Data Generator**
+
+🎯 **Tech Stack:**
+- Gaussian Copula
+- CTGAN (Conditional Tabular GAN)
+- Streamlit Deployment
+
+🔧 **Features:**
+- Automated preprocessing & type detection
+- Missing value imputation
+- High-cardinality handling
+
+📊 **Evaluation:**
+- KS Statistic
+- JS Divergence
+- Correlation MSE
+- ML Utility Checks
+- Privacy Assessments
 
 </td>
 <td width="50%" valign="top">
 
-#### 💡 Problem Solving
-- Complex pattern recognition
-- Predictive analytics modeling
-- Large-scale data processing
-- Algorithm development
-- Performance optimization
+### ♻️ EcoWaste AI
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Data-pageup)
+
+**Predictive Waste Sorting & CO2 Optimizer**
+
+🎯 **Performance:**
+- **88.8%** Test Accuracy
+- **25K+** Images Processed
+- **R² = 0.96** for CO2 Prediction
+
+🔧 **ML Pipeline:**
+- MobileNetV2 Transfer Learning
+- RandomForest Regressor
+- K-Means Clustering (3 clusters)
+
+🌍 **Impact:**
+- Organic vs Recyclable Classification
+- CO2 Savings Prediction
+- Personalized Sustainability Insights
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 SmartFit AI
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/Data-pageup)
+
+**ML-Powered Fitness Analytics Platform**
+
+🎯 **Data Scale:**
+- **20K+** Fitness Records
+- **5** Fitness Archetypes
+
+🔧 **ML Techniques:**
+- PCA for Dimensionality Reduction
+- K-Means Clustering
+- Neural Networks (Calorie/BMI/Body-fat)
+
+📱 **Features:**
+- Real-time Predictions
+- AI Workout Schedules
+- Personalized Diet Plans
+- Interactive Streamlit Dashboard
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 RippleWorks
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Data-pageup)
+
+**Water Quality Intelligence System**
+
+🎯 **Models:**
+- XGBoost Regressor (WQI)
+- XGBoost Classifier (WQC)
+
+🔧 **Engineering:**
+- Feature-engineered WQI & WQC
+- KNN Imputation
+- IQR Capping
+
+🌊 **Application:**
+- Real-time Water Quality Analysis
+- Streamlit Web Interface
+- Interactive User Experience
 
 </td>
 </tr>
@@ -58,176 +193,165 @@ My work focuses on building intelligent systems that solve real-world problems a
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ TECHNICAL ARSENAL
 
-<details open>
-<summary><b>Languages & Core Technologies</b></summary>
-<br>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-</details>
+<div align="center">
 
-<details open>
-<summary><b>Machine Learning & Deep Learning</b></summary>
-<br>
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
-</p>
-</details>
+### **💻 Programming & Core**
 
-<details open>
-<summary><b>Computer Vision</b></summary>
-<br>
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Detectron2-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Albumentations-9B59B6?style=for-the-badge" />
-</p>
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<details open>
-<summary><b>Data Engineering & Analytics</b></summary>
-<br>
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Dask-FDA061?style=for-the-badge" />
-</p>
-</details>
+### **🤖 Machine Learning**
 
-<details open>
-<summary><b>Visualization & BI Tools</b></summary>
-<br>
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-</details>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-FF6B6B?style=for-the-badge)
 
-<details open>
-<summary><b>MLOps & Deployment</b></summary>
-<br>
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-</details>
+### **🧠 Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Architectures:** CNN • RNN • LSTM • GRU • GANs • Transfer Learning
+
+### **📊 Data Science & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+**Specialties:** Statistical Modeling • A/B Testing • Time Series (ARIMA/SARIMA) • Feature Engineering • NLP • Computer Vision
+
+### **🔧 Tools & Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Domain Expertise
+## 🏆 CERTIFICATIONS
 
 <table>
 <tr>
-<td width="50%">
-
-### 🌍 Environmental AI
-- Waste classification systems
-- Carbon tracking & sustainability analytics
-- Environmental impact modeling
-- Green tech solutions
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<br><b>OCI Data Science Professional</b>
+<br><sub>Oracle University (2025)</sub>
 </td>
-<td width="50%">
-
-### 🎥 Computer Vision
-- Real-time object detection
-- Image segmentation
-- Visual recognition systems
-- Video analytics
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<br><b>ML Foundations</b>
+<br><sub>University of Washington (2025)</sub>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Predictive Analytics
-- Time series forecasting
-- Anomaly detection
-- Business intelligence
-- Statistical modeling
-
-</td>
-<td width="50%">
-
-### ⚙️ Production ML
-- Scalable ML pipelines
-- Model deployment & monitoring
-- Performance optimization
-- MLOps best practices
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/HP_LIFE-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+<br><b>Data Science & Analytics</b>
+<br><sub>HP LIFE Foundation (2025)</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 💼 Professional Philosophy
+## 📈 EXPERTISE MATRIX
 
-> **Quality over Quantity** — Building solutions that work reliably in production  
-> **Impact-Driven** — Focusing on projects that create measurable value  
-> **Continuous Learning** — Staying current with emerging technologies  
-> **Collaborative Approach** — Effective communication across technical and non-technical teams
+```mermaid
+graph LR
+    A[Data Science] --> B[Machine Learning]
+    A --> C[Deep Learning]
+    A --> D[Data Engineering]
+    
+    B --> E[Supervised Learning]
+    B --> F[Unsupervised Learning]
+    B --> G[Ensemble Methods]
+    
+    C --> H[Computer Vision]
+    C --> I[Transfer Learning]
+    C --> J[GANs]
+    
+    D --> K[ETL Pipelines]
+    D --> L[Feature Engineering]
+    D --> M[Data Cleaning]
+    
+    style A fill:#00D9FF
+    style B fill:#7F00FF
+    style C fill:#FF6B6B
+    style D fill:#00FF00
+```
 
 ---
 
-## 🚀 Current Focus
+## 💡 CORE COMPETENCIES
 
-```
-├── Building AI solutions for environmental sustainability
-├── Developing production-ready ML pipelines
-├── Exploring cutting-edge deep learning architectures
-└── Contributing to impactful open-source projects
-```
+<div align="center">
+
+| 🎯 Domain | 🔧 Capabilities | 📊 Impact |
+|-----------|----------------|-----------|
+| **ML Engineering** | Production Pipelines, Model Optimization | Scalable Solutions |
+| **Computer Vision** | Image Classification, Object Detection | 88.8% Accuracy |
+| **Data Processing** | ETL, Feature Engineering, Cleaning | 85% Quality Improvement |
+| **Analytics** | Statistical Modeling, A/B Testing | Data-Driven Insights |
+| **Deployment** | Streamlit, Docker, MLflow | End-to-End Systems |
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🌟 WHAT DRIVES ME
 
-<p align="center">
-<a href="https://www.linkedin.com/in/amirthaganesh-ramesh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  "Building AI systems that solve real-world problems        │
+│   and create measurable impact through innovation."         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Focus Areas:**
+🌍 Environmental AI • 🔬 Research & Innovation • 📊 Production ML • 🚀 Scalable Solutions
+
+</div>
+
+---
+
+## 📬 LET'S COLLABORATE
+
+<div align="center">
+
+**Open to exciting opportunities in Data Science, ML Engineering, and AI Research**
+
+<p>
 <a href="mailto:amirthaganeshramesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://linkedin.com/in/amirthaganeshramesh">
+<img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Data-pageup">
+<img src="https://img.shields.io/badge/💻_View_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<div align="center">
+<br>
 
-**Open to discussing data science projects, ML challenges, and collaborative opportunities**
+**🔥 Current Status:** Actively building, learning, and shipping ML solutions
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
-
-*"Turning data into insights, insights into action."*
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer)
 
 </div>
