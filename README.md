@@ -27,7 +27,7 @@
 
 <div align="center">
 
-**My approach to building data-driven solutions**
+**So, This is what I do every day & Night !**
 
 <br>
 
