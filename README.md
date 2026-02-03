@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ABOUT ME
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 HOW I WORK
+## HOW I WORK
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-## 💼 LET'S BUILD SOMETHING TOGETHER
+##  LET'S BUILD SOMETHING TOGETHER
 
 <br>
 
@@ -93,7 +93,7 @@ Building AI solutions | Exploring data insights | Deploying scalable models
 
 <br>
 
-### 🚀 Open for Collaboration & Opportunities
+###  Open for Collaboration & Opportunities
 
 <br>
 
@@ -113,7 +113,7 @@ Building AI solutions | Exploring data insights | Deploying scalable models
 
 <br><br>
 
-💼 **Available for full-time roles** • 🤝 **Open to research collaborations** • 💡 **Ready to discuss ideas**
+ **Available for full-time roles** • | **Open to research collaborations** • | **Ready to discuss ideas**
 
 <br>
 
