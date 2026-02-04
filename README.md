@@ -123,15 +123,3 @@ Building AI solutions | Exploring data insights | Deploying scalable models
 
 </div><div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AMIRTHA+GANESH+R" alt="Name" />
-</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;Statistical+Modelling+%7C+Deep+Learning+%7C+Computer+Vision;From+Jupyter+Notebooks+to+Docker+Containers;M.Sc+Data+Science+%40+VIT+AP;B.Sc+Data+Science+%26+Analytics+%40+Sharda+University)](https://git.io/typing-svg)
-<p>
-<a href="mailto:amirthaganeshramesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Data-pageup"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/amirthaganeshramesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-</div>
