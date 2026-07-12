@@ -56,26 +56,12 @@
 
 <td valign="top" width="40%">
 
-<h3>Hi, I'm Amirtha Ganesh R </h3>
-
-<p>
-<b>Data Scientist • AI/ML Engineer • GenAI & LLM Systems</b>
-</p>
-
 <p>
 🟢 <b>Currently looking for full-time Data Science / AI Engineering roles</b> — open to relocation and remote opportunities. If your team is hiring, let's talk!
 </p>
 
 <p>
-I design and ship AI systems that turn messy, real-world data into products people actually use from LLM-powered agents to recommendation engines and forecasting models. My work sits at the intersection of applied ML, generative AI, and production engineering, and I care as much about a model working in a notebook as I do about it surviving contact with real users.
-</p>
-
-<p>
-🚀 <b>What I bring</b><br>
-• Designed and deployed production-grade LLM agents and RAG pipelines using Docker &amp; Pydantic AI<br>
-• Built recommendation systems and predictive ML models that directly informed business decisions<br>
-• Engineered end-to-end data pipelines across datasets from thousands to 100K+ records<br>
-• Comfortable owning a problem from raw data → experimentation → deployment
+I design and ship AI systems that turn messy, real-world data into products people actually use — from LLM-powered agents to recommendation engines and forecasting models. My work sits at the intersection of applied ML, generative AI, and production engineering, and I care as much about a model working in a notebook as I do about it surviving contact with real users.
 </p>
 
 <p>
@@ -96,3 +82,18 @@ I design and ship AI systems that turn messy, real-world data into products peop
 
 </tr>
 </table>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Amirtha+Ganesh+R)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A8A8A&center=true&vCenter=true&width=700&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems+Builder)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 What I bring
+
+- Designed and deployed production-grade LLM agents and RAG pipelines using Docker & Pydantic AI
+- Built recommendation systems and predictive ML models that directly informed business decisions
+- Engineered end-to-end data pipelines across datasets from thousands to 100K+ records
+- Comfortable owning a problem from raw data → experimentation → deployment
