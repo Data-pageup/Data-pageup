@@ -56,7 +56,7 @@
 
 <td valign="top" width="40%">
 
-<h2>Hi, I'm Amirtha Ganesh R 👋</h2>
+<h3>Hi, I'm Amirtha Ganesh R </h3>
 
 <p>
 <b>Data Scientist • AI/ML Engineer • GenAI & LLM Systems</b>
@@ -67,7 +67,7 @@
 </p>
 
 <p>
-I design and ship AI systems that turn messy, real-world data into products people actually use — from LLM-powered agents to recommendation engines and forecasting models. My work sits at the intersection of applied ML, generative AI, and production engineering, and I care as much about a model working in a notebook as I do about it surviving contact with real users.
+I design and ship AI systems that turn messy, real-world data into products people actually use from LLM-powered agents to recommendation engines and forecasting models. My work sits at the intersection of applied ML, generative AI, and production engineering, and I care as much about a model working in a notebook as I do about it surviving contact with real users.
 </p>
 
 <p>
