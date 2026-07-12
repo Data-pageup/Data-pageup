@@ -1,66 +1,37 @@
-<div align="center">
+<table>
+<tr>
+<td width="35%">
 
-```
-      ╭──────────────────────────────╮
-      │ ● ● ●                        │    Your Name
-      ├──────────────────────────────┤    ─────────────
-      │ $ whoami                     │    Role:                   Data Science Intern @ HMH TechHub
-      │ > data_scientist                  Education:              M.Sc Data Science — VIT
-      │                                   :                       B.Sc Data Science & Analytics — Sharda University
-      │ $ import torch, sklearn      │
-      │ > modules loaded ✓                Languages.Programming:  Python · R · SQL · MATLAB
-      │                                   Languages.ML:           Scikit-learn · XGBoost · LightGBM · CatBoost
-      │ $ train(model)                    Languages.DL:           TensorFlow · Keras · CNN/RNN/LSTM/GRU · GANs
-      │ > [██████████████░░] 87%     │    LLM & Agents:           BERT · RAG · Pydantic AI · n8n
-      │                                   Tools:                  Streamlit · Docker · MLflow · Power BI · Tableau
-      │ $ git status
-      │ > On branch main                  Publications:           IEEE CICN 2025, NIT Goa
-      │   nothing to commit           │   Certifications:         OCI 2025 Data Science Professional
-      │
-      │ $ _                          │    Email:                  your.email@example.com
-      ╰──────────────────────────────╯    LinkedIn:               linkedin.com/in/your-username
-           ╲                     ╱        GitHub:                 github.com/your-username
-            ╲___________________╱
-            │                   │
-            ╰───────────────────╯
-```
+<img src="<img width="282" height="204" alt="ascii" src="https://github.com/user-attachments/assets/96ad6189-ec6e-483c-9dd4-f29f493c6da1" />" width="250"/>
 
-</div>
+</td>
 
-<div align="center">
+<td width="65%">
 
-### 🛠️ Tech Stack
+# Hi, I'm Amirtha Ganesh 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+🎓 **M.Sc. Data Science**  
+Vellore Institute of Technology – AP
 
-</div>
+🎓 **B.Sc. Data Science & Analytics (Hons.)**  
+Sharda University
 
-<div align="center">
+💼 **Data Scientist | AI Engineer**
 
-### 📊 GitHub Stats
+📚 IEEE Published Researcher (CICN 2025)
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" height="165"/>
+☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="165"/>
+**Areas of Interest**
 
-</div>
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AI Agents
+- MLOps
+- Computer Vision
+- Natural Language Processing
 
-<div align="center">
-
-### 📫 Reach Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
-</div>
+</td>
+</tr>
+</table>
