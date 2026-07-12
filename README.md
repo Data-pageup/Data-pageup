@@ -136,51 +136,6 @@ SSSSS%%%%%%%%???????%S@@@@@@@@#*, ,*#@%                                         
 SSS%%%%%%%%%%????????S@@@@@@@@#*. ,?##?                                                         *+.                *@@*                                                                            .:;
 
 </td>
-
-<td width="55%">
-
-```bash
-amirtha@github
-────────────────────────────────────
-
-OS          Human v24.0
-Role        AI Engineer
-Status      Open to Work
-
-Education
-──────────────
-🎓 M.Sc Data Science
-📍 VIT-AP
-
-Research
-──────────────
-📄 IEEE CICN 2025
-
-Certification
-──────────────
-☁ Oracle OCI Data Science Professional
-
-Languages
-──────────────
-Python
-SQL
-R
-
-AI
-──────────────
-TensorFlow
-PyTorch
-Scikit-Learn
-LangChain
-HuggingFace
-
-MLOps
-──────────────
-Docker
-MLflow
-FastAPI
-Streamlit
-
 ```
 
 </td>
