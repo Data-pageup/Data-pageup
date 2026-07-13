@@ -57,10 +57,10 @@
 <td valign="top" width="40%">
 
 <a href="https://github.com/Data-pageup">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&height=60&lines=Amirtha+Ganesh+R" alt="Amirtha Ganesh R" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFB86C&center=true&vCenter=true&width=320&height=50&lines=Amirtha+Ganesh+R" alt="Amirtha Ganesh R" width="100%" style="max-width:320px;" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=440&height=40&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=320&height=35&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems" alt="roles" width="100%" style="max-width:320px;" />
 
 <p>
 🟢 <b>Currently looking for full-time Data Science / AI Engineering roles</b> — open to relocation and remote opportunities. If your team is hiring, let's talk!
