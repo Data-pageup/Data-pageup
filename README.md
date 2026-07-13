@@ -49,7 +49,6 @@
               SS#%??;*+****+*++;:,,,::;;;;++****?S%%%#%
               ;S#%??*+?*+++++*++;;;;;;;;;;+++++*??+###,
               .#@S%%?;*??*+++++++;;;;;:::;;;++***+?S@S*
-               *@@#@@*+**???*++;;;;;;;;;;;;+++*** ?@??
 </pre>
 
 </td>
@@ -91,72 +90,78 @@ I design and ship AI systems that turn real-world data into products people actu
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</td></tr>
 
-**Libraries**
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-<img src="https://img.shields.io/badge/SentenceTransformers-333333?style=for-the-badge" alt="SentenceTransformers" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+<tr><td><b>Libraries</b></td><td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/SentenceTransformers-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</td></tr>
 
-**Machine Learning**
-<p>
-<code>Regression</code> <code>Classification</code> <code>Clustering</code> <code>Feature Engineering</code> <code>Hyperparameter Tuning</code>
-</p>
+<tr><td><b>Machine Learning</b></td><td>
+<img src="https://img.shields.io/badge/Regression-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Classification-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Clustering-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-333333?style=flat-square" />
+</td></tr>
 
-**Deep Learning**
-<p>
-<code>CNN</code> <code>RNN</code> <code>LSTM</code> <code>Transformers</code> <code>Transfer Learning</code>
-</p>
+<tr><td><b>Deep Learning</b></td><td>
+<img src="https://img.shields.io/badge/CNN-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/RNN-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/LSTM-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Transformers-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Transfer%20Learning-333333?style=flat-square" />
+</td></tr>
 
-**Generative AI**
-<p>
-<code>LLMs</code> <code>RAG</code> <code>Prompt Engineering</code> <code>Agents</code> <code>MCP</code> <code>Tool Calling</code> <code>Vector Databases</code>
-</p>
+<tr><td><b>Generative AI</b></td><td>
+<img src="https://img.shields.io/badge/LLMs-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Agents-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Tool%20Calling-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector%20Databases-333333?style=flat-square" />
+</td></tr>
 
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/FAISS-333333?style=for-the-badge" alt="FAISS" />
-</p>
+<tr><td><b>Databases</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-333333?style=flat-square" />
+</td></tr>
 
-**MLOps**
-<p>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<tr><td><b>MLOps</b></td><td>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</td></tr>
 
-**Cloud**
-<p>
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
+<tr><td><b>Cloud</b></td><td>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</td></tr>
 
-**Deployment**
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+<tr><td><b>Deployment</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</td></tr>
 
-**Version Control**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<tr><td><b>Version Control</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</td></tr>
+</table>
