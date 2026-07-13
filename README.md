@@ -73,8 +73,8 @@ I design and ship AI systems that turn real-world data into products people actu
 <p>
 🏆 <b>Credentials</b><br>
 📄 IEEE Published Researcher<br>
-☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
-<> h
+☁️ Oracle Cloud Infrastructure Certified Data Science Professional
+
 
 </p>
 
