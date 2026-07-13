@@ -95,7 +95,7 @@ From raw data to production, I own the full loop: cleaning and preprocessing, bu
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## Skills & Tools
 
 <table>
 <tr><td><b>Languages</b></td><td>
