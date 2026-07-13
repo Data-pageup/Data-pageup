@@ -61,7 +61,7 @@
 </a>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=320&height=35&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems" alt="roles" width="100%" style="max-width:320px;" />
-
+<br>
 <p>
 Have a messy dataset, a research problem to prototype, or a workflow that needs automating? That's exactly the kind of work I enjoy, whether it's automating workflows or building intelligent AI applications end to end. I'm currently looking for a full-time Data Science role (remote or relocation). Let's build something impactful.
 </p>
