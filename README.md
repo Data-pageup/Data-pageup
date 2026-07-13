@@ -55,35 +55,43 @@
 </td>
 
 <td valign="top" width="40%">
-<h2>Hi, I'm Amirtha Ganesh R </h2>
+
+<a href="https://github.com/Data-pageup">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&height=60&lines=Amirtha+Ganesh+R" alt="Amirtha Ganesh R" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=440&height=40&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems" alt="roles" />
 
 <p>
-<b>Data Scientist • AI Engineer • Machine Learning Enthusiast</b>
+🟢 <b>Currently looking for full-time Data Science / AI Engineering roles</b> — open to relocation and remote opportunities. If your team is hiring, let's talk!
 </p>
 
 <p>
-I build intelligent AI systems that transform complex data into practical, scalable solutions. My experience spans machine learning, generative AI, LLM engineering, AI agents, predictive analytics, and end-to-end data science pipelines. Through industry internships, I've developed production-ready AI workflows, recommendation systems, predictive models, and retrieval-augmented generation (RAG) applications that solve real-world business problems.
+I design and ship AI systems that turn messy, real-world data into products people actually use — from LLM-powered agents to recommendation engines and forecasting models. My work sits at the intersection of applied ML, generative AI, and production engineering, and I care as much about a model working in a notebook as I do about it surviving contact with real users.
 </p>
 
 <p>
-💼 <b>Experience</b><br>
-• Built production-ready AI agents and LLM pipelines using RAG, Docker & Pydantic AI<br>
-• Developed recommendation systems and predictive ML models for business applications<br>
-• Worked with datasets ranging from thousands to 100K+ records for analytics and forecasting
-</p>
-
-<p>
-📄 <b>IEEE Published Researcher</b><br>
+🏆 <b>Credentials</b><br>
+📄 IEEE Published Researcher<br>
 ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 </p>
 
 <p>
+📫 <b>Let's connect</b><br>
 🌐 <a href="https://github.com/Data-pageup">GitHub</a> •
 <a href="https://www.linkedin.com/in/amirthaganeshramesh">LinkedIn</a> •
 <a href="https://data-pageup.github.io/AmirthaganeshR">Portfolio</a><br>
 📧 <a href="mailto:amirthaganeshramesh@gmail.com">amirthaganeshramesh@gmail.com</a>
 </p>
+
 </td>
 
 </tr>
 </table>
+
+## 🚀 What I Bring
+
+- Designed and deployed production-grade LLM agents and RAG pipelines using Docker & Pydantic AI
+- Built recommendation systems and predictive ML models that directly informed business decisions
+- Engineered end-to-end data pipelines across datasets from thousands to 100K+ records
+- Comfortable owning a problem from raw data → experimentation → deployment
