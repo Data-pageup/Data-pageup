@@ -49,6 +49,7 @@
               SS#%??;*+****+*++;:,,,::;;;;++****?S%%%#%
               ;S#%??*+?*+++++*++;;;;;;;;;;+++++*??+###,
               .#@S%%?;*??*+++++++;;;;;:::;;;++***+?S@S*
+               *@@#@@*+**???*++;;;;;;;;;;;;+++*** ?@??
 </pre>
 
 </td>
@@ -62,18 +63,24 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=320&height=35&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems" alt="roles" width="100%" style="max-width:320px;" />
 
 <p>
-Whether it's cleaning chaotic datasets, automating workflows, or building intelligent AI applications, I enjoy solving problems end to end. I'm currently looking for full-time Data Science role (remote or relocation). Let's build something impactful...
+Have a messy dataset, a research problem to prototype, or a workflow that needs automating? That's exactly the kind of work I enjoy, whether it's automating workflows or building intelligent AI applications end to end. I'm currently looking for a full-time Data Science role (remote or relocation). Let's build something impactful.
 </p>
 
+<br>
+
 <p>
-From raw data to production, I own the full loop: cleaning and preprocessing, building embeddings and encodings for LLMs, and deploying RAG-based systems with real MLOps behind them. I also turn that data into decisions through Power BI + AI-driven analysis, and automate the workflows that keep everything running without manual babysitting.
+From raw data to production, I own the full loop: cleaning and preprocessing, building embeddings and encodings for LLMs, and deploying RAG-based systems with real MLOps behind them. I'm comfortable digging into research papers to bring new techniques into practice, and I also turn data into decisions through Power BI + AI-driven analysis, automating the workflows that keep everything running without manual babysitting.
 </p>
+
+<br>
 
 <p>
 🏆 <b>Credentials</b><br>
 📄 IEEE Published Researcher<br>
 ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 </p>
+
+<br>
 
 <p>
 📫 <b>Let's connect</b><br>
@@ -88,7 +95,7 @@ From raw data to production, I own the full loop: cleaning and preprocessing, bu
 </tr>
 </table>
 
-## Skills & Tools
+## 🛠️ Tech Stack
 
 <table>
 <tr><td><b>Languages</b></td><td>
