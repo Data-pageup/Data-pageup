@@ -62,7 +62,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=320&height=35&lines=Data+Scientist;AI%2FML+Engineer;GenAI+%26+LLM+Systems" alt="roles" width="100%" style="max-width:320px;" />
 
 <p>
-Have a messy dataset, a problem worth automating, or an idea that needs an AI system behind it? That's the kind of work I enjoy, and I'm currently open to full-time Data Science / AI Engineering roles (relocation and remote both fine). Feel free to reach out below.
+Whether it's cleaning chaotic datasets, automating workflows, or building intelligent AI applications, I enjoy solving problems end to end. I'm currently looking for full-time Data Science role (remote or relocation). Let's build something impactful...
 </p>
 
 <p>
