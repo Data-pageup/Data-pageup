@@ -66,7 +66,7 @@ Whether it's cleaning chaotic datasets, automating workflows, or building intell
 </p>
 
 <p>
-I design and ship AI systems that turn real-world data into products people actually use, from LLM-powered agents to recommendation engines and forecasting models. My work sits at the intersection of applied ML, generative AI, and production engineering, and I care as much about a model working in a notebook as I do about it surviving contact with real users.
+From raw data to production, I own the full loop: cleaning and preprocessing, building embeddings and encodings for LLMs, and deploying RAG-based systems with real MLOps behind them. I also turn that data into decisions through Power BI + AI-driven analysis, and automate the workflows that keep everything running without manual babysitting.
 </p>
 
 <p>
