@@ -88,7 +88,7 @@ I design and ship AI systems that turn real-world data into products people actu
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## Skills & Tools
 
 <table>
 <tr><td><b>Languages</b></td><td>
