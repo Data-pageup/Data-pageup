@@ -164,6 +164,9 @@ From raw data to production, I own the full loop: cleaning and preprocessing, bu
 <tr><td><b>Deployment</b></td><td>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+
+  
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </td></tr>
 
@@ -172,3 +175,10 @@ From raw data to production, I own the full loop: cleaning and preprocessing, bu
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </td></tr>
 </table>
+
+## Featured Projects
+🤖 **[Multi-Agent Research System](link)** — LangChain multi-agent pipeline: search → read → write → critique
+📄 **[Multi-Model PDF Assistant](link)** — RAG chatbot over PDFs with Groq/Gemini switching
+⚽ **[FIFA 2026 Outcome Prediction](link)** — Poisson regression + 1,000-run Monte Carlo tournament simulation
+
+
