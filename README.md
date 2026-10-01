@@ -6,7 +6,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="ascii-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="ascii-light.png">
-  <img alt="ASCII portrait" src="ascii-dark.png" width="480">
+  <img alt="ASCII portrait" src="ascii-dark.png" width="100%">
 </picture>
 
 </td>
